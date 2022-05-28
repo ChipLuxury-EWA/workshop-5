@@ -10,9 +10,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  },
   "devDependencies": {
     "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "@cicciosgamino/openweather-apis": "^5.2.0",
+    "mondayu-logger-tom-portugez": "^1.0.1"
   }
 }
