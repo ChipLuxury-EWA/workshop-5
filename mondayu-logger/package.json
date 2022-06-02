@@ -1,6 +1,6 @@
 {
   "name": "mondayu-logger-tom-portugez",
-  "version": "1.0.1",
+  "version": "3.1.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -10,6 +10,5 @@
   "author": "Chip_Luxury",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.16"
   }
 }
